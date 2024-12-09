@@ -1,0 +1,36 @@
+R&D Engineer Home Test
+
+Instructions
+
+The purpose of this test is to evaluate your technical abilities in various aspects of Software
+Engineering and Architecture. Also allowing common grounds for discussion in the interview
+that takes place after you complete this test.
+
+The test is a home test, and you are encouraged to use any resource at your disposal - online,
+consulting friends etc. You will be asked to explain your solution in the interview, emphasizing
+on correctness, design and coding decisions.
+
+You should submit via email, working and tested code. The code should be in any language you
+feel comfortable with (Java is preferred, but definitely not required) and include unit testing.
+For any questions/remarks, please feel free to approach us.
+Questions
+Question 1
+Objective: Implement a text based calculator application. Usage of Rhino, Nashorn, antlr and
+other similar solutions is not allowed.
+
+Input: The input is a series of assignment expressions. The syntax is a subset of Java numeric
+expressions and operators.
+
+Output: At the end of evaluating the series, the value of each variable is printed out.
+Example:
+
+
+Input: Following is a series of valid inputs for the program:
+i = 0
+j = ++i
+x = i++ + 5
+y = 5 + 3 * 10
+i += y
+
+Output:
+(i=37,j=1,x=6,y=35)
