@@ -58,7 +58,10 @@ You can run the calculator either directly on your local machine or inside a Doc
 
 Clone the repository:
 
-`git clone https://github.com/mordechaiyosef/calculator_cmd.git cd calculator`
+```
+git clone https://github.com/mordechaiyosef/calculator_cmd.git
+cd calculator
+```
 
 Install dependencies:
 
