@@ -46,7 +46,7 @@ The calculator's design is structured into several components:
 
 The app provides an interactive command-line interface using `prompt_toolkit`:
 
-*   The prompt displays `(calc) >>>` to indicate the ready state for user input.
+*   The prompt displays `>>` to indicate the ready state for user input.
 *   Commands like `exit`, `help`, `show`, and `clear` are available with auto-completion.
 *   Users can evaluate expressions and manage variables with the `show` command to display current variables and `clear` to reset them.
 
