@@ -20,7 +20,7 @@ def main():
  | |    / _` | |/ __| | | | |/ _` | __/ _ \| '__|  \___ \| '_ \ / _ \ | |
  | |___| (_| | | (__| |_| | | (_| | || (_) | |     ____) | | | |  __/ | |
   \_____\__,_|_|\___|\__,_|_|\__,_|\__\___/|_|    |_____/|_| |_|\___|_|_|
-</pre></ansiblue>"""
+</pre></ansiblue>""" # noqa
         )
     )
     print("Welcome to the Calculator Shell! Type 'help' for a list of commands.")
