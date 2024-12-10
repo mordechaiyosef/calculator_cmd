@@ -1,6 +1,5 @@
 from prompt_toolkit import PromptSession, HTML, print_formatted_text
 from prompt_toolkit.completion import WordCompleter
-from prompt_toolkit.styles import Style
 
 from calculator import ExecutionContext, execute_expression
 from consts import GOODBYE_MESSAGE, COMMANDS

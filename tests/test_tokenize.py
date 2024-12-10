@@ -1,6 +1,5 @@
 import pytest
 
-from settings import logger
 from tokenizer import tokenize
 
 

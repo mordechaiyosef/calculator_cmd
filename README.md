@@ -104,6 +104,5 @@ This will start the calculator shell inside the Docker container.
 The application includes unit tests to ensure correctness. To run the tests, use:
 
 ```bash
-coverage run -m pytest
-coverage report
+python -m pytest
 ```
