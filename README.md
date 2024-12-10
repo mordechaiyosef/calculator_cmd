@@ -56,6 +56,8 @@ You can run the calculator either directly on your local machine or inside a Doc
 
 ### Running the Calculator Locally
 
+Developed and tested with [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
+
 Clone the repository:
 
 ```
